@@ -3,3 +3,4 @@ if status is-interactive
 end
 
 set tide_prompt_add_newline_before false
+source ~/.asdf/asdf.fish
